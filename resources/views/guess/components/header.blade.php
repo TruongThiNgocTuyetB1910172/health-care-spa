@@ -2,8 +2,9 @@
     <div class="container">
         <div class="row justify-content-between">
             <div class="col d-flex align-items-center">
-                <p class="mb-0 phone"><span class="mailus">SĐT:</span> <a href="tel:0962785101">0962785101</a> hoặc <span
-                        class="mailus">email:</span> <a href="mailto:voduchuy2001@gmail.com">voduchuy2001@gmail.com</a></p>
+                <p class="mb-0 phone"><span class="mailus">SĐT:</span> <a href="tel:0962785101">0794201716</a> hoặc <span
+                        class="mailus">email:</span> <a
+                        href="mailto:voduchuy2001@gmail.com">thingoctuyettruong@gmail.com</a></p>
             </div>
             <div class="col d-flex justify-content-end">
                 <div class="social-media">
@@ -22,3 +23,4 @@
         </div>
     </div>
 </div>
+
